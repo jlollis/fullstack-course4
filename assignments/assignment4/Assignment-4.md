@@ -43,3 +43,5 @@ If you want a _slightly_ more challenging assignment, use the code in the "harde
 Remember, if you are stuck, ask questions on the course Discussion forum.
 
 7. That's it!
+
+[View it Live](https://jlollis.github.io/fullstack-course4/assignments/assignment4/module4-solution/index.html)
