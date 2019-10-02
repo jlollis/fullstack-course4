@@ -61,3 +61,5 @@ Repeat this several times to make sure that most of the time you see a different
 <br><br>
 
 9. That's it!
+
+[View it Live](https://jlollis.github.io/fullstack-course4/assignments/assignment5/module5-solution/index.html)

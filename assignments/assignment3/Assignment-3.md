@@ -111,3 +111,5 @@ Here is the mockup illustration of the mobile version of the site with the menu 
 
 ![Mobile - Optional (Closed)](images/mobile-optional-collapsed.png)
 ![Mobile - Optional (Open)](images/mobile-optional-expanded.png)
+
+[View it Live](https://jlollis.github.io/fullstack-course4/assignments/assignment3/module3-solution/index.html)
