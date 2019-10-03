@@ -1,11 +1,9 @@
 * {
   box-sizing: border-box;
-  /*border: 1px solid greenyellow;*/
 }
 
 body {
   font-family: Roboto, sans-serif;
-  /*border: 1px solid red;*/
 }
 
 h1 {
@@ -23,13 +21,11 @@ p {
 
 .container {
   margin: 15px;
-  /*border: 2px solid red;*/
 }
 
 section {
   position: relative;
   border: 1px solid #000000;
-  /*padding: 1px 1px 1px 1px;*/
   background-color: #999999;
 }
 
@@ -46,7 +42,6 @@ section h2 {
 }
 
 section p {
-  /*padding: 0 0 0 0;*/
   margin: 40px 20px 2px 20px;
 }
 
