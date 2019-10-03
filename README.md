@@ -18,7 +18,7 @@ As part of this course we developed a *real* website for a *real* client. Below 
 
 ## Projects:
 
-- [Module 2 Solution - View it Live](https://jlollis.github.io/fullstack-course4/assignments/assignment2/module2-solution/index.html)
-- [Module 3 Solution - View it Live](https://jlollis.github.io/fullstack-course4/assignments/assignment3/module3-solution/index.html)
-- [Module 4 Solution - View it Live](https://jlollis.github.io/fullstack-course4/assignments/assignment4/module4-solution/index.html)
-- [Module 5 Solution - View it Live](https://jlollis.github.io/fullstack-course4/assignments/assignment5/module5-solution/index.html)
+- [Module 2 Solution Live](https://jlollis.github.io/fullstack-course4/assignments/assignment2/module2-solution/index.html)
+- [Module 3 Solution Live](https://jlollis.github.io/fullstack-course4/assignments/assignment3/module3-solution/index.html)
+- [Module 4 Solution Live](https://jlollis.github.io/fullstack-course4/assignments/assignment4/module4-solution/index.html)
+- [Module 5 Solution Live](https://jlollis.github.io/fullstack-course4/assignments/assignment5/module5-solution/index.html)
