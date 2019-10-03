@@ -15,3 +15,10 @@ Please check our FAQ to see if a question you want to ask on the forums has been
 As part of this course we developed a *real* website for a *real* client. Below is a link to the final product. (*Note*, the site is left without speed optimization to keep it exactly as it was in the course. Site optimization wasn't part of the course).
 
 [David Chu's China Bistro Restaurant in Baltimore, MD](http://www.davidchuschinabistro.com/)
+
+## Projects:
+
+- [Module 2 Solution - View it Live](https://jlollis.github.io/fullstack-course4/assignments/assignment2/module2-solution/index.html)
+- [Module 3 Solution - View it Live](https://jlollis.github.io/fullstack-course4/assignments/assignment3/module3-solution/index.html)
+- [Module 4 Solution - View it Live](https://jlollis.github.io/fullstack-course4/assignments/assignment4/module4-solution/index.html)
+- [Module 5 Solution - View it Live](https://jlollis.github.io/fullstack-course4/assignments/assignment5/module5-solution/index.html)
